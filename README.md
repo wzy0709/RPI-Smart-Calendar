@@ -1,6 +1,6 @@
 # RPI-Smart-Calendar
 ## 
-The product is a smart calendar that could enable college students to communicate in the specific study group of the course. 
+The product is a smart calendar that could help college students to communicate in the specific study group of the course. 
 
 The calendar could also add due dates automatically or manually to remind students of the due dates of their assignments. 
 

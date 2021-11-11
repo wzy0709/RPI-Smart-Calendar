@@ -1,5 +1,12 @@
 # RPI-Smart-Calendar
+## 
+The product is a smart calendar that could enable college students to communicate in the specific study group of the course. 
 
+The calendar could also add due dates automatically or manually to remind students of the due dates of their assignments. 
+
+Our calendar could learn from these data intelligently and provide personalized data analysis such as future assignment needed time, average time used for each assignment, the time needed to spend next week, and so on.
+
+The calendar features only guarantee to work for RPI students currently but is easily designed to extend to be suitable for students all over the world. Thus the future of the product would be promising.
 ## prerequirment
 * Ubuntu 20.04
 * Docker version 20.10.8
